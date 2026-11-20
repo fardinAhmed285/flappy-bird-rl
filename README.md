@@ -1,5 +1,15 @@
 # Flappy Bird AI - Unity ML-Agents
 
+## Gameplay Demo
+
+Watch the trained Flappy Bird AI agent running in Unity.
+
+The demonstration showcases autonomous gameplay, obstacle avoidance, and the extra-life collectible mechanic.
+
+[![Flappy Bird AI - Gameplay Demo](https://img.youtube.com/vi/T4rr8sTURTo/maxresdefault.jpg)](https://www.youtube.com/watch?v=T4rr8sTURTo)
+
+**[Watch Gameplay on YouTube](https://www.youtube.com/watch?v=T4rr8sTURTo)
+
 A 2D Flappy Bird reinforcement learning project built with **Unity** and **Unity ML-Agents 4.1.0**, using **Proximal Policy Optimization (PPO)** to train an autonomous bird agent.
 
 The agent learns to navigate procedurally spawned pipe obstacles, maintain its position, avoid collisions, and collect extra-life prizes. The project explores reinforcement learning through custom observations, discrete actions, reward engineering, and multi-life episode management.
