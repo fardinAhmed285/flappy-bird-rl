@@ -170,8 +170,8 @@ flappy_config.yaml
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-cd YOUR_REPOSITORY
+git clone https://github.com/fardinAhmed285/flappy-bird-rl.git
+cd flappy-bird-rl
 ```
 
 Open the project using Unity Hub.
